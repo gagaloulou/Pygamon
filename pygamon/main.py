@@ -1,4 +1,5 @@
 # This is a sample Python script
+#BIG BULLSHIT
 import pygame
 
 from game import Game
